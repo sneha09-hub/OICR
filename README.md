@@ -22,4 +22,5 @@ Program Flow :
 Compile/Run the Prog :
 
 javac com/example/SpellCheck.java 
+
 java com.example.SpellCheck ../resources/Document.txt ../resources/Dictionary.txt
