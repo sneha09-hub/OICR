@@ -1,6 +1,7 @@
 Spell Check Application
 
 Inputs : 
+
 1. Document.txt - This file contains words in the text form either in sentences or paragraphs.
 2. Dictionary.txt - This is lookup file which contains valid words in the list form , which might contain words in the Document file.
 
@@ -19,5 +20,6 @@ Program Flow :
 - Print the list of resulting missplelled words.
 
 Compile/Run the Prog :
+
 javac com/example/SpellCheck.java 
 java com.example.SpellCheck ../resources/Document.txt ../resources/Dictionary.txt
